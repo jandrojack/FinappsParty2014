@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShopCheck</string>
+    <string name="welcome_msg">Welcome To ShopCheck</string>
+    <string name="title_activity_arrival_flights_intent">ArrivalFlightsIntent</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_departure_pager">departure_pager</string>
+    <string name="title_activity_ocio_intent">OcioIntent</string>
+    <string name="title_activity_moda_intent">ModaIntent</string>
+    <string name="title_activity_gastronomia_intent">GastronomiaIntent</string>
+    <string name="title_activity_tecnologia_intent">TecnologiaIntent</string>
+
+
+</resources>
